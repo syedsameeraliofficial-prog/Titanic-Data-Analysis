@@ -1,0 +1,17 @@
+Unique Column,Passenger Id ,Name,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Analysis,,
+,,,,,,,,,,,,,,Total Passengers,0,
+Data Dict,Exlpain about Columns and possible Values,,,,,,,,,,,,,,,
+Target,Passenger Survival Analysis,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Target,,
+,,,,,,,,,,,,,,Survived,0,#DIV/0!
+,,,,,,,,,,,,,,Not Survived,0,#DIV/0!
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,Data Exploration ,Passenger Class,,Data Analysis
+,,,,,,,,,,,,,Data Dictionary,"Missing Values (Drop , Fill)",,
+,,,,,,,,,,,,,Features,Duplicate Values / Records (Drop),,
+,,,,,,,,,,,,,Target,Inconsistency (type),,
+,,,,,,,,,,,,,,Inconsistency (value),,
